@@ -1,0 +1,29 @@
+# Table of Contents
+#
+# Myst will respect:
+# 1. New pages
+#      - file: relative/path/to/page
+# 2. New sections without an associated page
+#      - title: Folder Title
+#        sections: ...
+# 3. New sections with an associated page
+#      - file: relative/path/to/page
+#        sections: ...
+#
+# Note: Titles defined on pages here are not recognized.
+#
+# This spec is based on the JupyterBook table of contents.
+# Learn more at https://jupyterbook.org/customize/toc.html
+
+format: jb-book
+root: interactive_plots
+chapters:
+  - file: elkins2021
+  - file: iacovino2021
+  - title: Notebooks - Elkins2021
+    sections:
+      - file: elkins2021/explore
+  - title: Notebooks - Iacovino2021
+    sections:
+      - file: iacovino2021/Interaction1_dataset_creation
+      - file: iacovino2021/Interaction1_plotting

@@ -3,3 +3,4 @@ ipywidgets
 ipympl
 matplotlib
 VESIcal
+scipy

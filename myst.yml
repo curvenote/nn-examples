@@ -7,9 +7,12 @@ project:
   authors: []
   # github:
   # bibliography: []
-  jupyter: 'binder'
+  jupyter:
+    server:
+      url: http://localhost:8888
+      token: test-secret
 site:
-  template: book-theme
+  template: article-theme
   # title:
   # options:
   #   logo: site_logo.png

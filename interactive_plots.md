@@ -17,7 +17,9 @@ The article presents an open source, reproducible tool for modeling U-series in 
 The interactive figure below allows for a comparion between equilibrium and disequilibrium models for a number of different parameters noteably the $Da$ Number.
 
 ```{figure} #elkins2021-plot
-
+:label: plot-one
+:placeholder: ./elkins2021-placeholder.png
+Interactive plot for comparison of equilibrium and disequilibrium models.
 ```
 
 ### VESIcal: An open-source thermodynamic model engine for mixed volatile (H₂O-CO₂) solubility in silicate melts - @iacovino2021
@@ -27,5 +29,7 @@ The article presents VESIcal (Volatile Equilibria and Saturation Identification 
 The interactive figure below plots H$_2$O-CO$_2$ isobars based on specific samples from the Cerro Negro Melt Inclusions dataset.
 
 ```{figure} #iacovino2021-plot
-
+:label: plot-two
+:placeholder: iacovino2021-placeholder.png
+Explore H₂O-CO₂ landscape by plotting isobars based on samples from the Cerro Negro Melt Inclusions dataset.
 ```

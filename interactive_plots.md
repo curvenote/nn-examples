@@ -1,12 +1,14 @@
-# Selected Examples from AGU Notebooks now
+# AGU NotebooksNow Showcase: Example Figures
 
 This example site contains some elements from the Notebooks Now example articles posted at the AGU 2023 fall meeting.
 
 The original articles were published in 2021 and in collaboration with the authors, were updated with new plots to fit into the publication templates developed during Notebooks Now! and extended to show off what you can do when you have the ability to publish a computational article.
 
-The full examples can be found on the Notebooks Now! journal [agu.curve.space](https://agu.curve.space), and parts of these are reproduced here.
+> The full examples can be found on the Notebooks Now! showcase [agu.curve.space](https://agu.curve.space), only some interactive parts of these are reproduced here with a reduced reproducible environment.
 
-![screenshot of the agu notebooks now journal site](./agu-journal-site.png)
+```{figure} ./agu-journal-site.png
+A screenshot of the AGU NotebooksNow Showcase - https://agu.curve.space
+```
 
 ## Selected Interactive Plots
 
